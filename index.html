@@ -1,1 +1,1 @@
-This is a dummy site
+This is dummy site
